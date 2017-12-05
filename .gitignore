@@ -161,3 +161,6 @@ local.properties
 hs_err_pid*
 
 /.idea/
+/mavent.iml
+/helloworld/helloworld.iml
+/readleancode/readleancode.iml
